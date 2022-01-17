@@ -1,0 +1,2 @@
+# Spectrwm
+Spectrwm Configuration Files
